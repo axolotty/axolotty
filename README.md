@@ -7,7 +7,7 @@
 ## 🚀 À propos
 
 ```js
-const Axolotty = {
+const axolotty = {
   rôle: "Infrastructure IT & Automatisation",
   os: ["Debian", "Ubuntu", "macOS M3 Pro", "Windows"],
   infra: ["Docker", "Nginx", "Synology NAS", "Gitea", "VPS"],
