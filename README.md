@@ -46,7 +46,7 @@ const axolotty = {
 |--------|-------------|
 | **datashield** | Blocklist IPv4 via `ipset` + `iptables` + `systemd`, rechargement atomique |
 | **docker-update** | Mise à jour automatique des conteneurs Docker, dry-run, exécution parallèle |
-| **tm-server** | Serveur d'hébergement de scripts Tampermonkey — UI dark, drag-and-drop |
+| **tm-server** | Serveur d'hébergement de scripts Tampermonkey - UI dark, drag-and-drop |
 
 ---
 
